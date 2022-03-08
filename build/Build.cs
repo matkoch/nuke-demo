@@ -1,4 +1,5 @@
 using Nuke.Common;
+// ReSharper disable All
 
 class Build : NukeBuild
 {
